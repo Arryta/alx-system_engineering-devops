@@ -75,13 +75,4 @@
   `welcome/to/` and `welcome/to/holberton` in the current directory.
 
 * **18. Life is a series of commas, not periods**
-  * [18-commas](./18-commas): Bash script that lists all files and directories of the current
-  directory, including hidden ones, as follows:
-    * Separated by commas (`,`).
-    * Directory names end with a slash (`/`).
-    * Alpha-ordered, except for the directories `.` and `..` which are listed at the beginning.
-    * Only digits and letters are used to sort - digits come first.
 
-* **19. File type: Holberton**
-  * [holberton.mgc](./holberton.mgc): A magic file that can be used with the command `file` to
-  detect `Holberton` data files.
